@@ -38,5 +38,5 @@ func main() {
 	p1, p2 := solver(loadInput(day))
 
 	fmt.Printf("Solving for Day %d\n", day)
-	fmt.Printf("  Part 1: %s\n  Part 2: %s", p1, p2)
+	fmt.Printf("  Part 1: %s\n  Part 2: %s\n", p1, p2)
 }
