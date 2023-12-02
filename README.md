@@ -8,4 +8,7 @@ My advent of code answers for 2023, or at least as much as I'm willing to do :)
 go build
 # Solve for day 1
 ./AOC23 1
+
+# or if you have make installed
+make run day=1
 ```
