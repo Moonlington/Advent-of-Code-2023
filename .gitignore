@@ -8,6 +8,8 @@
 *.so
 *.dylib
 
+AOC23
+
 # Test binary, built with `go test -c`
 *.test
 
