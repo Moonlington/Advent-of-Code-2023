@@ -5,4 +5,5 @@ type SolverFunc func(string) (string, string)
 
 var DayToSolverFunc map[int]SolverFunc = map[int]SolverFunc{
 	1: Day1,
+	2: Day2,
 }
